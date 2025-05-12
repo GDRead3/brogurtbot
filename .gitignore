@@ -20,3 +20,12 @@ npm-debug.log*
 # Optional: IDE settings
 .idea/
 .vscode/
+
+# Config
+config.json
+
+# Ignore all files in the config directory
+config/*
+
+
+
